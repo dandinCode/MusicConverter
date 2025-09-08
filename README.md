@@ -30,7 +30,6 @@ track2.wma
 1. **Clone o repositório**
 ```bash
    git clone https://github.com/dandinCode/MusicConverter.git
-   cd music-converter
   ```
 
 2. **Instale as dependências**
